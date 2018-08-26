@@ -3,5 +3,9 @@ bbbbb
 ccccc
 ddddd
 hhhhh
+<<<<<<< HEAD
 iiiii edit by hot_fix
 
+=======
+iiiii edit by master
+>>>>>>> master
